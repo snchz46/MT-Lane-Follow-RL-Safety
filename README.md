@@ -1,4 +1,4 @@
-# MT-Lane-Follow-RL-Safety
+# SE4AI The use of Safety Cages in Reinforcement Learning Algorithms for a better Safety Traceability
 
 Master thesis repository for a **reinforcement-learning lane-following system with a safety cage**, developed in the context of SE4AI (Samuel ASM, 2026).
 
